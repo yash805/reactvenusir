@@ -1,0 +1,13 @@
+1.jsx(javscript xml)
+2. Events
+3. states: used to store values . so we have to use useState hook to store values
+4. props: 
+5. Life cycle methods: 1. mounting:  2. update  3. unmounting
+  class components: a. componentdidmount  b. componentdidUpdate 3.componentwillUnmount
+  functional: useEffect 
+  []: it will runs only on mount and unmount
+
+  9. userref: it targets real dom directly so its a bad way to handle
+    but states did not target dom directly they will target virtual dom first then virtual dom make chnages in real dom
+
+Routing: params
