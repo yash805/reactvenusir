@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333;
+}
+.center{
+    height: 500px;
+    width: 350px;
+}
+
+.input{
+    background-color: white;
+    border:none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.add{
+    background-color: lightcoral;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.b{
+    height: 500px;
+    width: 350px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.b li{
+    color: white;
+}
